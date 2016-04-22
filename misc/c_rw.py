@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # reader-writer problem, producer consumer
-#   À³¸Ó¤À ¤@­Óproducer¤@­Óconsumer¡A¦h­Óreader¦h­Ówriter
-# todo: queue¥[¤W¤j¤p­­¨î Ä´¦p³Ì¦h¥u¯à©ñ¤J40­ÓªF¦è
+#   æ‡‰è©²åˆ† ä¸€å€‹producerä¸€å€‹consumerï¼Œå¤šå€‹readerå¤šå€‹writer
+# todo: queueåŠ ä¸Šå¤§å°é™åˆ¶ è­¬å¦‚æœ€å¤šåªèƒ½æ”¾å…¥40å€‹æ±è¥¿
 
 import random
 import time
